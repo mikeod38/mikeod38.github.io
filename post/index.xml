@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on main page</title>
+    <title>Posts on Michael O&#39;Donnell</title>
     <link>/post/</link>
-    <description>Recent content in Posts on main page</description>
+    <description>Recent content in Posts on Michael O&#39;Donnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
@@ -26,9 +26,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/publications/</guid>
-      <description>Neal, S.J., Takeishi, A., O’Donnell, M.P., Park, J., Hong, M., Butcher, R.A., Kim, K. and Sengupta, P. (2015) Feeding state-dependent regulation of developmental plasticity via CaMKI and neuroendocrine signaling. Elife 10110. doi: 10.7554/eLife.10110
-O’Donnell, M.P. and Bashaw, G.J. (2013) Distinct functional domains of the Abelson tyrosine kinase control axon guidance responses to Netrin and Slit to regulate the assembly of neural circuits. Development. 134: 4325-4334. doi: 10.1242/dev.093831
-O’Donnell, M.P. and Bashaw, G.</description>
+      <description>Michael P. O’Donnell , Pin-Hao Chao, Jan E. Kammengan and Piali Sengupta. Rictor/TORC2 mediates gut-to-brain signaling in the regulation of phenotypic plasticity in C. elegans. PLOS Genetics, 2018.
+Scott J Neal, Asuka Takeishi, Michael P O&amp;rsquo;Donnell, JiSoo Park, Myeongjin Hong, Rebecca A Butcher, Kyuhyung Kim and Piali Sengupta. Feeding state-dependent regulation of developmental plasticity via CaMKI and neuroendocrine signaling.
+O’Donnell, M.P. and Bashaw, G.J. (2013) Distinct functional domains of the Abelson tyrosine kinase control axon guidance responses to Netrin and Slit to regulate the assembly of neural circuits.</description>
     </item>
     
     <item>
