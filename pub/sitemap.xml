@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/categories/</loc>
+    <loc>/pub/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -12,13 +12,28 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
+                hreflang="pub"
+                href="/pub/categories/"
                 />
   </url>
   
   <url>
-    <loc>/es/</loc>
+    <loc>/pub/post/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pub"
+                href="/pub/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/pub/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -27,13 +42,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/"
+                hreflang="pub"
+                href="/pub/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/</loc>
+    <loc>/pub/post/pubs.pub/</loc>
+  </url>
+  
+  <url>
+    <loc>/pub/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -42,8 +61,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
+                hreflang="pub"
+                href="/pub/tags/"
                 />
   </url>
   

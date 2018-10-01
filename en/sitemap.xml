@@ -3,123 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/new-test-post/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/another-one/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/comments-example/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/comments-example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/comments-example/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post2/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post5/</loc>
-    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post4/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post3/</loc>
-    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post6/</loc>
-    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post7/</loc>
-    <lastmod>2017-03-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post7/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post8/</loc>
-    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post8/"
-                />
   </url>
   
   <url>
@@ -130,16 +24,6 @@
   <url>
     <loc>/post/post/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post/"
-                />
   </url>
   
   <url>
@@ -147,39 +31,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
+                hreflang="pub"
+                href="/pub/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
                 />
   </url>
   
@@ -191,31 +49,17 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/post/"
+                hreflang="pub"
+                href="/pub/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/post/post1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/post/post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/post1/"
                 />
   </url>
   
@@ -243,18 +87,29 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
+                hreflang="pub"
+                href="/pub/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pub"
+                href="/pub/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
                 />
   </url>
   

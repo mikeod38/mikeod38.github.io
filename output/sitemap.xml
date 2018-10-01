@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/categories/</loc>
+    <loc>/output/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -12,13 +12,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
+                hreflang="new"
+                href="/new/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="output"
+                href="/output/categories/"
                 />
   </url>
   
   <url>
-    <loc>/es/</loc>
+    <loc>/output/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -27,13 +32,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/"
+                hreflang="new"
+                href="/new/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="output"
+                href="/output/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/</loc>
+    <loc>/output/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -42,8 +52,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
+                hreflang="new"
+                href="/new/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="output"
+                href="/output/tags/"
                 />
   </url>
   
