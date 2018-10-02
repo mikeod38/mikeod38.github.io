@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>New test post</title>
+      <title>About me</title>
       <link>/post/new-test-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/new-test-post/</guid>
-      <description>This is the top post</description>
+      <description>I am a postdoctoral researcher at Brandeis University in the laboratory of Dr. Piali Sengupta. Our lab studies the structure and function of the neuronal sensory aparatus in the roundworm, C. elegans. This nematode offers a unique system to study sensory biology, owing to its fully-identified cell lineage (consisting of 302 invariant neurons) as well, its place as the only animal with a complete neuronal connectivity map, as well as its powerful genetic toolkit.</description>
     </item>
     
     <item>
@@ -26,9 +26,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/publications/</guid>
-      <description>Michael P. O’Donnell , Pin-Hao Chao, Jan E. Kammengan and Piali Sengupta. Rictor/TORC2 mediates gut-to-brain signaling in the regulation of phenotypic plasticity in C. elegans. PLOS Genetics, 2018.
-Scott J Neal, Asuka Takeishi, Michael P O&amp;rsquo;Donnell, JiSoo Park, Myeongjin Hong, Rebecca A Butcher, Kyuhyung Kim and Piali Sengupta. Feeding state-dependent regulation of developmental plasticity via CaMKI and neuroendocrine signaling.
-O’Donnell, M.P. and Bashaw, G.J. (2013) Distinct functional domains of the Abelson tyrosine kinase control axon guidance responses to Netrin and Slit to regulate the assembly of neural circuits.</description>
+      <description>Michael P. O’Donnell, Pin-Hao Chao, Jan E. Kammenga and Piali Sengupta. Rictor/TORC2 mediates gut-to-brain signaling in the regulation of phenotypic plasticity in C. elegans. PLOS Genetics, 2018.
+Scott J Neal, Asuka Takeishi, Michael P. O&amp;rsquo;Donnell, JiSoo Park, Myeongjin Hong, Rebecca A Butcher, Kyuhyung Kim and Piali Sengupta. Feeding state-dependent regulation of developmental plasticity via CaMKI and neuroendocrine signaling. Elife, 2015.
+Michael P. O&amp;rsquo;Donnell and Greg J. Bashaw. Distinct functional domains of the Abelson tyrosine kinase control axon guidance responses to Netrin and Slit to regulate the assembly of neural circuits.</description>
     </item>
     
     <item>
