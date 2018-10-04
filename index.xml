@@ -6,38 +6,18 @@
     <description>Recent content on Michael O&#39;Donnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>/post/new-test-post/</link>
+      <link>/post/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-test-post/</guid>
-      <description>I am a postdoctoral researcher at Brandeis University in the laboratory of Dr. Piali Sengupta. Our lab studies the structure and function of the neuronal sensory aparatus in the roundworm, C. elegans. This nematode offers a unique system to study sensory biology, owing to its fully-identified cell lineage (consisting of 302 invariant neurons) as well, its place as the only animal with a complete neuronal connectivity map, as well as its powerful genetic toolkit.</description>
-    </item>
-    
-    <item>
-      <title>publications</title>
-      <link>/post/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/publications/</guid>
-      <description>Michael P. O’Donnell, Pin-Hao Chao, Jan E. Kammenga and Piali Sengupta. Rictor/TORC2 mediates gut-to-brain signaling in the regulation of phenotypic plasticity in C. elegans. PLOS Genetics, 2018.
-Scott J Neal, Asuka Takeishi, Michael P. O&amp;rsquo;Donnell, JiSoo Park, Myeongjin Hong, Rebecca A Butcher, Kyuhyung Kim and Piali Sengupta. Feeding state-dependent regulation of developmental plasticity via CaMKI and neuroendocrine signaling. Elife, 2015.
-Michael P. O&amp;rsquo;Donnell and Greg J. Bashaw. Distinct functional domains of the Abelson tyrosine kinase control axon guidance responses to Netrin and Slit to regulate the assembly of neural circuits.</description>
-    </item>
-    
-    <item>
-      <title>Another one</title>
-      <link>/post/another-one/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/another-one/</guid>
-      <description></description>
+      <guid>/post/about/</guid>
+      <description>I am a postdoc researcher at Brandeis University in the laboratory of Dr. Piali Sengupta. Our lab studies the structure and function of the neuronal sensory aparatus in the roundworm, C. elegans. This nematode offers a unique system to study sensory biology, owing to its fully-identified cell lineage (consisting of 302 invariant neurons), its place as the only animal with a complete neuronal connectivity map, as well as its powerful genetic toolkit.</description>
     </item>
     
     <item>
@@ -50,23 +30,14 @@ Michael P. O&amp;rsquo;Donnell and Greg J. Bashaw. Distinct functional domains o
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>publications</title>
+      <link>/post/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Test first post</title>
-      <link>/post/post/</link>
-      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post/</guid>
-      <description></description>
+      <guid>/post/publications/</guid>
+      <description>Michael P. O’Donnell, Pin-Hao Chao, Jan E. Kammenga and Piali Sengupta. Rictor/TORC2 mediates gut-to-brain signaling in the regulation of phenotypic plasticity in C. elegans. PLOS Genetics, 2018.
+Scott J Neal, Asuka Takeishi, Michael P. O&amp;rsquo;Donnell, JiSoo Park, Myeongjin Hong, Rebecca A Butcher, Kyuhyung Kim and Piali Sengupta. Feeding state-dependent regulation of developmental plasticity via CaMKI and neuroendocrine signaling. Elife, 2015.
+Michael P. O&amp;rsquo;Donnell and Greg J. Bashaw. Distinct functional domains of the Abelson tyrosine kinase control axon guidance responses to Netrin and Slit to regulate the assembly of neural circuits.</description>
     </item>
     
   </channel>
